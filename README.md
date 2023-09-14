@@ -1,19 +1,19 @@
 # Welcome to My Ls
-This was insanely hard!
+***
 
 ## Task
-Every single sing is challanging there.
+Every single sign is challenging there.
 
 ## Description
 I take almost a week to complete this project. And there weren't to sort names of folders too.
 
 ## Installation
-Nothing to install. It is like ls command in linux.
+Nothing to install. It is like the ls command in Linux.
 
 ## Usage
-It is the same as ls command in linux but it is avaliable only -t, -a and -ta options.
+It is the same as the ls command in Linux but it is available only with -t, -a, and -ta options.
 ```
-./my_project argument1 argument2
+./my_ls [args]
 ```
 
 ### The Core Team
